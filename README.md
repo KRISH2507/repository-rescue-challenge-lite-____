@@ -87,3 +87,10 @@ repository-rescue-challenge-lite/
 - There is no answer key in this repository. The fixes are yours to make.
 
 Good luck. Leave this repository better than you found it.
+
+## Development Guidelines
+
+- Use meaningful commit messages.
+- Review changes before merging.
+- Keep changes isolated to feature branches.
+
